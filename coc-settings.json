@@ -1,0 +1,21 @@
+{
+  "coc.preferences.extensionUpdateCheck": "daily",
+  "suggest.noselect": true,
+  "suggest.enablePreselect": false,
+  "codeLens.enable": true,
+  "list.previousKeymap": "<C-u>",
+  "list.nextKeymap": "<C-e>",
+  "coc.preferences.formatOnSave": true,
+  "diagnostic.refreshOnInsertMode": false,
+  "diagnostic.checkCurrentLine": true,
+  "snippets.ultisnips.directories": [
+    "Ultisnips",
+    "$HOME/.config/nvim/Ultisnips/"
+  ],
+  "jedi.enable": true,
+  "jedi.trace.server": "messages",
+  "jedi.diagnostics.enable": true,
+  "jedi.diagnostics.didOpen": true,
+  "jedi.diagnostics.didChange": true,
+  "jedi.diagnostics.didSave": true
+}
